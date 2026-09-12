@@ -1,0 +1,8 @@
+cat_id,cat_name,cat_desc,last_updated_at
+1,FOOD,Food assistance and donations,2025-09-19 10:34:37
+1.1,FOOD_DONATE,Donate food items,2025-03-21 09:20:15
+1.2,FOOD_REQUEST,Request food help,2025-03-14 00:54:28
+2,CLOTHES,Clothing assistance,2025-10-23 02:21:29
+2.1,CLOTHES_DONATE,Donate clothes,2025-03-17 02:55:26
+3,TRANSPORT,Transportation help,2025-10-06 19:51:38
+4,TUTORING,Tutoring and education support,2025-09-25 03:47:57
